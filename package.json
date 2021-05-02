@@ -1,6 +1,6 @@
 {
   "name": "array-duplicate-reducer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Input simple array, get back an array with duplicates removed",
   "main": "index.js",
   "scripts": {

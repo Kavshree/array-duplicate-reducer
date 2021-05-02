@@ -1,2 +1,2 @@
-exports.removeDuplicates = (array) => = array.filter((item, index) => array.indexOf(item) === index);
+exports.removeDuplicates = (array) => array.filter((item, index) => array.indexOf(item) === index);
 
