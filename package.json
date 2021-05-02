@@ -1,0 +1,23 @@
+{
+  "name": "array-duplicate-reducer",
+  "version": "1.0.0",
+  "description": "Input simple array, get back an array with duplicates removed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavshree/array-duplicate-reducer.git"
+  },
+  "keywords": [
+    "array",
+    "duplicates"
+  ],
+  "author": "kavyashree <bjkavyashree@gmail.com> (http://javascripthisday.blogspot.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kavshree/array-duplicate-reducer/issues"
+  },
+  "homepage": "https://github.com/Kavshree/array-duplicate-reducer#readme"
+}
